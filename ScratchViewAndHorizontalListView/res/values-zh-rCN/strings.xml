@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">云行为</string>
+    <string name="hello_world">你好,世界!</string>
+    <string name="action_settings">设置</string>
+
+    <string name="scratch_result">皇室战争5元代金券</string>
+    <string name="using">使用</string>
+    <string name="scratch_title">皇室战争代金券疯狂刮一刮</string>
+    <string name="start_scratch">开始刮奖</string>
+    <string name="thanks">谢谢参与</string>
+
+    <string name="game_activity_title_1">每日有礼</string>
+    <string name="game_activity_action">来一发</string>
+</resources>
