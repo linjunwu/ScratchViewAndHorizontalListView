@@ -45,3 +45,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.classpath
+ScratchViewAndHorizontalListView/.gradle/2.10/taskArtifacts/cache.properties
+*.lock
+ScratchViewAndHorizontalListView/.gradle/2.10/taskArtifacts/fileHashes.bin
+*.bin
+ScratchViewAndHorizontalListView/.idea/.name
+ScratchViewAndHorizontalListView/.idea/compiler.xml
+ScratchViewAndHorizontalListView/.idea/copyright/profiles_settings.xml
+ScratchViewAndHorizontalListView/.idea/*
+ScratchViewAndHorizontalListView/bin/*
+ScratchViewAndHorizontalListView/build/*
+ScratchViewAndHorizontalListView/gen/*
+ScratchViewAndHorizontalListView/.project
+*.iml
